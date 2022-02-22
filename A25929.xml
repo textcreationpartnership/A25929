@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of impeachment of high treason, and other high crimes and offences, against William Earl of Powis, William Visount Stafford, Henry Lord Arundel of Wardour, William Lord Petre, and John Lord Bellasis, now prisoners in the Tower</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25929</idno>
+            <idno type="STC">Wing A3843</idno>
+            <idno type="STC">ESTC R38536</idno>
+            <idno type="EEBO-CITATION">17755925</idno>
+            <idno type="OCLC">ocm 17755925</idno>
+            <idno type="VID">106571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of impeachment of high treason, and other high crimes and offences, against William Earl of Powis, William Visount Stafford, Henry Lord Arundel of Wardour, William Lord Petre, and John Lord Bellasis, now prisoners in the Tower</title>
+               </titleStmt>
+               <extent>p. 3-6.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Althought Wing dates this item c. 1684, all of the above mentioned prisoners were incarcerated in 1680 and, more importantly, Viscount Stafford was beheaded (for treason) in 1680.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powis, William Herbert, --  Duke of, 1617-1696.</term>
+               <term>Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term>Arundell of Wardour, Henry Arundell, --  Baron, 1606?-1694.</term>
+               <term>Petre, William Petre, --  Baron, 1622-1684.</term>
+               <term>Belasyse, John Belasyse, --  Baron, 1615-1689.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:106571:1" rendition="simple:additions"/>
+            <head>Articles of Impeachment of High Treaſon, and other high Crimes and Offences, againſt <hi>William</hi> Earl of <hi>Powis, William</hi> Viſcount <hi>Staf<g ref="char:EOLhyphen"/>ford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellaſis,</hi> now Priſoners in the Tower.</head>
+            <p>THat for many years now laſt paſt, there hath been contriv'd and carryed on a Traiterous and Execrable Conſpiracy and Plot within this Kingdom of <hi>England,</hi> and other pla<g ref="char:EOLhyphen"/>ces, to alter, change, and ſubvert the ancient Government and Laws of this Kingdom and Nation, and to ſuppreſs the true Re<g ref="char:EOLhyphen"/>ligion therein eſtabliſhed, and to extirpate and deſtroy the Profeſ<g ref="char:EOLhyphen"/>ſors thereof; which ſaid Plot and Conſpiracy was contrived and carryed on in divers places, and by ſeveral wayes and means, and by a great number of Perſons of ſeveral Qualities and Degrees, who acted therein, and intended thereby to execute and accom<g ref="char:EOLhyphen"/>pliſh the aforeſaid Wicked and Traiterous Deſigns and Purpoſes.</p>
+            <p>That the ſaid <hi>William</hi> Earl of <hi>Powis, William</hi> Viſcount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellaſis,</hi> together with <hi>Philip Howard,</hi> commonly called Cardinal of <hi>Norfolk, Thomas White,</hi> alias <hi>Whitebread,</hi> commonly called Provincial of the <hi>Jeſuits</hi> in <hi>England, Richard Strange,</hi> late Provincial of the <hi>Jeſuits</hi> in <hi>England, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Vincent,</hi> com<g ref="char:EOLhyphen"/>monly called Provincial of the <hi>Dominicans</hi> in <hi>England, James Corker,</hi> commonly called Preſident of the <hi>Benedictines,</hi> Sir <hi>John Warner</hi> alias <hi>Clare,</hi> Barronet, <hi>William Harcourt, John Keines, Ni<g ref="char:EOLhyphen"/>cholas Blundel, Pole Edward Mico, Thomas Bedingfield</hi> alias <hi>Beni<g ref="char:EOLhyphen"/>field, Bazill Langworth, Charles Peters, Richard Peters, John Con<g ref="char:EOLhyphen"/>yers,</hi> Sir <hi>George Wakeman, John Fenwick, Dominick Kelly, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fitz-Gerralt, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Evers,</hi> Sir <hi>Thomas Preſton, William Lo<g ref="char:EOLhyphen"/>vell,</hi> Jeſuits, Lord <hi>Baltamore, John Carrel, John Townley, Richard Langhorn, William Foggarty, Thomas Penny, Matthew Medburn, Ed<g ref="char:EOLhyphen"/>ward Coleman, William Ireland, John Grove, Thomas Pickering, John Smith,</hi> and divers others, <hi>Jeſuits, Prieſts</hi> and <hi>Fryars,</hi> and other per<g ref="char:EOLhyphen"/>ſons, as falſe Traytors to his Majeſty and this Kingdom, within the time aforeſaid have Trayterouſly conſulted, contrived and acted to and for the accompliſhing of the ſaid wicked, pernicious and Trayterous Deſigns, and for that end did moſt wickedly and Traterouſly agree, conſpire and reſolve to Impriſon, depoſe, and murther his Sacred Majeſty, and to deprive him of his Royal State, Crown, and Dignity, and by malicious and adviſed ſpeak<g ref="char:EOLhyphen"/>ing, writing, and otherwiſe, declared ſuch their Purpoſes and In<g ref="char:EOLhyphen"/>tentions.</p>
+            <pb n="4" facs="tcp:106571:2" rendition="simple:additions"/>
+            <p> And alſo to ſubject this Kingdom and Nation to the <hi>Pope</hi> and his Tyrannical Government.</p>
+            <p>And to ſeize and ſhare amongſt themſelves the Eſtates and In<g ref="char:EOLhyphen"/>heritances of his Majeſty's <hi>Proteſtant</hi> Subjects.</p>
+            <p>And to erect and reſtore Abbies, Monaſteries, and other Convents and Societies, which have been long ſince by the Laws of this Kingdom ſuppreſt for their Superſtition and Idolatry, and to deliver up and reſtore to them the Lands and Poſſeſſions now inveſted in His Majeſty and his Subjects by the Laws and Statutes of this Realm.</p>
+            <p>And alſo to Found and Erect new Monaſteries and Convents, and to remove and deprive all <hi>Proteſtant</hi> Biſhops and other Eccle<g ref="char:EOLhyphen"/>ſiaſtical Perſons from their Offices, Benefices, and Preferments; and by this means to deſtroy His Majeſties Perſon, extirpate the <hi>Proteſtant</hi> Religion, overthrow the Rights, Liberties, and Pro<g ref="char:EOLhyphen"/>perties of all His Majeſties good Subjects, ſubvert the lawful Government of this Kingdom, and ſubject the ſame to the Ty<g ref="char:EOLhyphen"/>ranny of the See of <hi>Rome.</hi>
+            </p>
+            <p>That the ſaid Conſpirators and their Complices and Confe<g ref="char:EOLhyphen"/>derates trayterouſly had, and held, ſeveral Meetings, Aſſemblies and Conſultations, wherein it was contrived and deſigned a<g ref="char:EOLhyphen"/>mongſt them what means ſhould be uſed, and what Perſons and Inſtruments ſhould be employed to murder His Majeſty; and did then and there reſolve to effect it by poyſoning, ſhooting, ſtabbing, or ſome ſuch-like ways and means; and offered Re<g ref="char:EOLhyphen"/>wards and Promiſes of Advantage to ſeveral Perſons to execute the ſame, and hired and employed ſeveral wicked Perſons to go to <hi>Windſor</hi> and other places where His Majeſty did reſide, to mur<g ref="char:EOLhyphen"/>der and deſtroy His Majeſty: which ſaid Perſons, or ſome of them, accepted ſuch Rewards, and undertook the perpetrating thereof, and did actually go to the ſaid places for that end and purpoſe.</p>
+            <p>That the ſaid Conſpirators, the better to compaſs their Tray<g ref="char:EOLhyphen"/>terous Deſigns, have conſulted to raiſe, and have procured and raiſed Men, Money, Horſes, Arms, and Amunition; and alſo have made application to, and treated and correſponded with, the Pope, his Cardinals, Nuncios, and Agents, and with other Foreign Miniſters and Perſons, to raiſe and obtain Supplies of Men, Money, Arms, and Amunition, therewith to make, levy, and raiſe War, Rebellion, and Tumults within this Kingdom, and to Invade the ſame with Foreign Forces; and to ſurprize, ſeize, and deſtroy His Majeſties Navy, Forts, Magazines, and
+<pb n="5" facs="tcp:106571:3"/>places of ſtrength within this Kingdom: Whereupon the Cala<g ref="char:EOLhyphen"/>mities of War, Murders of Innocent Subjects, Men, Women, and Children; Burnings, Rapines, Devaſtations, and other dreadful miſeries and miſchiefs muſt inevitably have enſued, to the ruine and deſtruction of this Nation.</p>
+            <p>That the ſaid Conſpirators have procured, accepted, and de<g ref="char:EOLhyphen"/>livered out ſeveral Inſtruments, Commiſſions, and Powers; made and granted by, or under the Pope, or other unlawful and uſurping Authority, to raiſe and diſpoſe of Men, Money, Arms, and other things neceſſary for their wicked and trayterous Deſigns; and namely, a Commiſſion to the ſaid <hi>Henry</hi> Lord <hi>A<g ref="char:EOLhyphen"/>rundel</hi> of <hi>Wardour,</hi> to be Lord High Chancellor of <hi>England;</hi> to the ſaid <hi>William</hi> Earl of <hi>Powis,</hi> to be Lord Treaſurer of <hi>England:</hi> A<g ref="char:EOLhyphen"/>nother Commiſſion to the ſaid <hi>John</hi> Lord <hi>Bellaſis</hi> to be General of the Army to be raiſed, and the ſaid <hi>William</hi> Lord <hi>Petre</hi> to be Lieutenant General of the ſaid Army, and a Power to the ſaid <hi>William</hi> Viſcount <hi>Stafford</hi> to be Pay-maſter of the Army: That in order to encourage themſelves in proſecuting their ſaid wicked Plots, Conſpiracies, and Treaſons, and to hide and hinder the diſcovery of the ſame: and to ſecure themſelves from Juſtice and puniſhment, the Conſpirators aforeſaid, and Confederates, have uſed many wicked and Diabolical Practiſes, <hi>(viz.)</hi> They did cauſe their Prieſts to Adminiſter to the ſaid Conſpirators an Oath of Secrecy, together with their Sacrament; and alſo did cauſe their ſaid Prieſts upon Confeſſions to give their Abſolutions, upon condition that they ſhould conceal the ſaid Conſpiracy.</p>
+            <p>And when about the Month of <hi>September</hi> laſt Sir <hi>Edmundbury Godfrey,</hi> a Juſtice of Peace, had, according to the Duty of his Oath and Office taken ſeveral Examinations and Informa<g ref="char:EOLhyphen"/>tions concerning the ſaid Conſpiracy and Plot, the ſaid Con<g ref="char:EOLhyphen"/>ſpirators, or ſome of them, by Advice, Aſſiſtance, Counſel and Inſtigation of the reſt, did incite and procure divers perſons to lye in wait and purſue the ſaid Sir <hi>Edmundbury Godfrey</hi> ſeveral dayes, with intent to murther him, which at laſt was penetrated and effected by them; for which ſaid horrid Crimes and Offen<g ref="char:EOLhyphen"/>ces <hi>Robert Green, Henry Berry,</hi> and <hi>Lawrence Hill,</hi> have ſince been attainted, and <hi>Dominick Kelly,</hi> and <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Gerald,</hi> and others, are fled for the ſame.</p>
+            <p>After which Murther, and before the Body was found, or the Murther known to any but the Complices therein, the ſaid per<g ref="char:EOLhyphen"/>ſons falſly gave out that he was alive, and privately married; and after the Body was found, diſperſed a falſe and malicious Report that he had murthered himſelf.</p>
+            <pb n="6" facs="tcp:106571:4" rendition="simple:additions"/>
+            <p> Which ſaid Murther was committed with deſign to ſtifle and ſup<g ref="char:EOLhyphen"/>preſs the Evidence he had taken, and had knowledge of, and to diſ<g ref="char:EOLhyphen"/>courage and deter Magiſtrates, and others, from acting in the further diſcovery of the ſaid Plot and Conſpiracy, for which end alſo the ſaid Sir <hi>Edmundbury Godfrey</hi> while he was alive, was by them their Complices, and Favourites, threatned and diſcouraged in his proceedings about the ſame.</p>
+            <p>And of their further malice they have wickedly contrived by many falſe ſuggeſtions, to lay the imputation and guilt of the aforeſaid horrid and deteſtable Crimes upon the Proteſtants, that ſo thereby they might eſcape the Puniſhments they have juſtly deſerv<g ref="char:EOLhyphen"/>ed, and expoſe the Proteſtants to great ſcandal, and ſubject them to Perſecution and Oppreſſion in all Kingdoms and Countries where the <hi>Roman</hi> Religion is received and profeſſed.</p>
+            <p>All which Treaſons, Crimes, and Offences above mentioned, were contrived, committed, perpetrated, acted, and done by the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> Earl of <hi>Powis, William</hi> Lord Viſcount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bella<g ref="char:EOLhyphen"/>ſis,</hi> and every of them, and others the Conſpirators aforeſaid, a<g ref="char:EOLhyphen"/>gainſt our Soveraign Lord the King, his Crown and Dignity, and againſt the Laws and Statutes of this Kingdom.</p>
+            <p>Of all which Treaſons, Crimes, and Offences, the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes in Parliament aſſembled, do in the Name of them<g ref="char:EOLhyphen"/>ſelves, and of the Commons of <hi>England,</hi> Impeach the ſaid <hi>William</hi> Earl of <hi>Powis, William</hi> Viſcount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellaſis,</hi> and every of them.</p>
+            <p>And the ſaid Commons by Proteſtation, ſaving to themſelves the liberty of exhibiting at any time hereafter any other Accuſations or Impeachments againſt the ſaid <hi>William</hi> Earl of <hi>Powis, William</hi> Viſ<g ref="char:EOLhyphen"/>count <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellaſis,</hi> and every of them, and alſo of re<g ref="char:EOLhyphen"/>plying to the Anſwers which they and every of them ſhall make to the Premiſes, or any of them, or to any other Accuſation or Im<g ref="char:EOLhyphen"/>peachment which ſhall be by them exhibited (as the Cauſe accord<g ref="char:EOLhyphen"/>ing to courſe and proceedings of Parliament ſhall require) do pray that the ſaid <hi>William</hi> Earl of <hi>Powis, William</hi> Viſcount <hi>Stafford, Hen<g ref="char:EOLhyphen"/>ry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellaſis,</hi> and every of them, may be put to anſwer all and every of the Premiſes, and that ſuch Proceedings, Examinations, Tryals, and Judgments may be upon them, and every of them, had and uſed, as ſhall be agreeable to Law and Juſtice, and Courſe of Parliament.</p>
+            <p>Reſolved that the ſaid Articles be ingroſſed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
